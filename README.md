@@ -6,19 +6,18 @@
     <Strong>☁️SNS list☁️</Strong><br><br>
     <a href="https://pgmjun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="https://www.facebook.com/profile.php?id=100007772448391" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.instagram.com/jn_sept/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>chltmdwns96@gmail.com<br>
+<Strong>📧Email📧</Strong><br>bp6115@naver.com<br>
 </p>
 
 <br>
 
 <p align="center">
 반갑습니다👐<br>
-제 이름은 최승준이고 백엔드를 공부하고 있어요!<br>
-현재 대학교에 재학중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
+제 이름은 배본영이고 백엔드를 공부하고 있어요!<br>
+현재 취업 준비중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
 </p>
 
 <br>
