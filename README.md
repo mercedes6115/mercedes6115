@@ -39,6 +39,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-%23563D7C.svg?style=flat&logo=pycharm&logoColor=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercedes6115&theme=radical)](https://github.com/mercedes6115/github-readme-stats)
