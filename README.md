@@ -1,55 +1,46 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Mercedes6115's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Hi_J.Y&fontSize=60)<br>
+<h2>✨Hello, I'm BonYoung!✨</h2>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyeon1104&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
+안녕하세요! 백엔드 개발자를 준비하고 있는 배본영입니다<br>
+"You just need to believe in yourself." <br><br>
+<img src="https://user-images.githubusercontent.com/98381511/177118622-fa4a4ed6-fa33-401a-a29e-743bc9349228.gif" width="50%">
 
-<p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br><a href="https://www.facebook.com/profile.php?id=100007772448391" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-    <br>
-<br><br>
-<Strong>📧Email📧</Strong><br>bp6115@naver.com<br>
-</p>
+<h2>🎈About Me🎈</h2>
+🎓Graduated SKU in Seoul, majored in Electronics Engineering,<br>
+📜Certificated Korea IT program in Seoul<br>
+💌Email : bp6115@naver.com<br>
 
-<br>
+<h2>🎈Back-end🎈</h2>
 
-<p align="center">
-반갑습니다👐<br>
-제 이름은 배본영이고 백엔드를 공부하고 있어요!<br>
-현재 취업 준비중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?style=flat&logo=springboot&logoColor=white) <br>
+![ORACLE](https://img.shields.io/badge/oracle-F80000.svg?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 
-<br>
+<h2>🎈Front-end🎈</h2>
 
-<p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![JQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=flat&logo=jquery&logoColor=white)
 
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/oracle-4479A1?style=for-the-badge&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white">
-    
-</p><br>
+<h2>🎈Tools🎈</h2>
 
-<p align="center">
-    💡used at least once
-</p>
+![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
+![GIT](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
-<p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/c++-F7DF1E?style=for-the-badge&logo=c++&logoColor=black">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>
 
-</p>
-
-<br>
-
-<div align=center>
-
-![mercedes6115's github stats](https://github-readme-stats.vercel.app/api?username=mercedes6115&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyeon1104&theme=radical)](https://github.com/Jiyeon1104/github-readme-stats)
+![Mercedes6115's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercedes6115&show_icons=true&theme=radical)
+</div>
