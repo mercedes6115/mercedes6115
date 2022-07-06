@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Hi_B.Y&fontSize=60)<br>
 <h2>✨Hello, I'm BonYoung!✨</h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://user-images.githubusercontent.com/89904399/177451695-7320a107-37a6-40fd-99f2-a82337e7bafe.gif)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://user-images.githubusercontent.com/89904399/177451695-7320a107-37a6-40fd-99f2-a82337e7bafe.gif)](https://user-images.githubusercontent.com/89904399/177451695-7320a107-37a6-40fd-99f2-a82337e7bafe.gif)
 <br>
 안녕하세요! 백엔드 개발자를 준비하고 있는 배본영입니다<br>
 "You just need to believe in yourself." <br><br>
