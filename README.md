@@ -41,6 +41,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyeon1104&theme=radical)](https://github.com/Jiyeon1104/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercedes6115&theme=radical)](https://github.com/mercedes6115/github-readme-stats)
 ![Mercedes6115's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercedes6115&show_icons=true&theme=radical)
 </div>
