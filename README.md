@@ -41,6 +41,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-%23563D7C.svg?style=flat&logo=pycharm&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercedes6115&theme=radical&hide=ipynb&langs_count=6)](https://github.com/mercedes6115/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercedes6115&theme=radical&hide=ipynb&langs_count=5)](https://github.com/mercedes6115/github-readme-stats)
 ![Mercedes6115's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercedes6115&show_icons=true&theme=radical)
 </div>
